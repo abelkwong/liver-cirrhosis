@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 jupyter notebook
 ```
-4. Open the liver cirrhosis prediction using random forest.ipynb file in your browser and run the code.
+4. Open the `liver cirrhosis prediction using random forest.ipynb` file in your browser and run the code.
 
 ## Usage
 
